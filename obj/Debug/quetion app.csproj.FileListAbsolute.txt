@@ -1,0 +1,61 @@
+D:\tasks\quetion app\bin\quetion app.dll.config
+D:\tasks\quetion app\bin\quetion app.dll
+D:\tasks\quetion app\bin\quetion app.pdb
+D:\tasks\quetion app\bin\roslyn\csc.exe
+D:\tasks\quetion app\bin\roslyn\csc.exe.config
+D:\tasks\quetion app\bin\roslyn\csc.rsp
+D:\tasks\quetion app\bin\roslyn\csi.exe
+D:\tasks\quetion app\bin\roslyn\csi.exe.config
+D:\tasks\quetion app\bin\roslyn\csi.rsp
+D:\tasks\quetion app\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\tasks\quetion app\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\tasks\quetion app\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\tasks\quetion app\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\tasks\quetion app\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\tasks\quetion app\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\tasks\quetion app\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\tasks\quetion app\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\tasks\quetion app\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\tasks\quetion app\bin\roslyn\Microsoft.Managed.Core.targets
+D:\tasks\quetion app\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\tasks\quetion app\bin\roslyn\System.Collections.Immutable.dll
+D:\tasks\quetion app\bin\roslyn\System.Reflection.Metadata.dll
+D:\tasks\quetion app\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\tasks\quetion app\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\tasks\quetion app\bin\roslyn\vbc.exe
+D:\tasks\quetion app\bin\roslyn\vbc.exe.config
+D:\tasks\quetion app\bin\roslyn\vbc.rsp
+D:\tasks\quetion app\bin\roslyn\VBCSCompiler.exe
+D:\tasks\quetion app\bin\roslyn\VBCSCompiler.exe.config
+D:\tasks\quetion app\bin\Antlr3.Runtime.dll
+D:\tasks\quetion app\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\tasks\quetion app\bin\Microsoft.Web.Infrastructure.dll
+D:\tasks\quetion app\bin\Newtonsoft.Json.dll
+D:\tasks\quetion app\bin\System.Web.Helpers.dll
+D:\tasks\quetion app\bin\System.Web.Mvc.dll
+D:\tasks\quetion app\bin\System.Web.Optimization.dll
+D:\tasks\quetion app\bin\System.Web.Razor.dll
+D:\tasks\quetion app\bin\System.Web.WebPages.Deployment.dll
+D:\tasks\quetion app\bin\System.Web.WebPages.dll
+D:\tasks\quetion app\bin\System.Web.WebPages.Razor.dll
+D:\tasks\quetion app\bin\WebGrease.dll
+D:\tasks\quetion app\bin\System.Web.Helpers.xml
+D:\tasks\quetion app\bin\System.Web.Mvc.xml
+D:\tasks\quetion app\bin\System.Web.Optimization.xml
+D:\tasks\quetion app\bin\System.Web.Razor.xml
+D:\tasks\quetion app\bin\System.Web.WebPages.xml
+D:\tasks\quetion app\bin\System.Web.WebPages.Deployment.xml
+D:\tasks\quetion app\bin\System.Web.WebPages.Razor.xml
+D:\tasks\quetion app\bin\Newtonsoft.Json.xml
+D:\tasks\quetion app\bin\Antlr3.Runtime.pdb
+D:\tasks\quetion app\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\tasks\quetion app\obj\Debug\quetion app.csproj.AssemblyReference.cache
+D:\tasks\quetion app\obj\Debug\quetion app.csproj.CoreCompileInputs.cache
+D:\tasks\quetion app\obj\Debug\quetion app.csproj.CopyComplete
+D:\tasks\quetion app\obj\Debug\quetion app.dll
+D:\tasks\quetion app\obj\Debug\quetion app.pdb
+D:\tasks\quetion app\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\tasks\quetion app\bin\roslyn\System.Buffers.dll
+D:\tasks\quetion app\bin\roslyn\System.Memory.dll
+D:\tasks\quetion app\bin\roslyn\System.Numerics.Vectors.dll
+D:\tasks\quetion app\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
